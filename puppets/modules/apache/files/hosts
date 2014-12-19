@@ -1,0 +1,12 @@
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost.com
+    ServerName localhost.v.l
+    DocumentRoot  "/var/www/project/public"
+    <Directory "/var/www/project/public">
+        Options Indexes FollowSymLinks
+        
+    </Directory>
+
+    SetEnv MY_LARAVEL_ENV local
+    
+</VirtualHost>

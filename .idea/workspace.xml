@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/project/web/lib/core/bootstrap/init_debuger.inc" line="27" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="a572f2c0-ea08-4c8c-87bc-e3e4820fb788" name="Default" comment="zmiana sciezek w templatkach">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/lib/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/project/web/lib/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/lib/vendor/autoload.php" afterPath="$PROJECT_DIR$/project/web/lib/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/lib/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/project/web/lib/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/lib/core/bootstrap/init_debuger.inc" afterPath="$PROJECT_DIR$/project/web/lib/core/bootstrap/init_debuger.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/config/main_config.php" afterPath="$PROJECT_DIR$/project/web/config/main_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/scripts/post.php" afterPath="$PROJECT_DIR$/project/web/scripts/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/dmsnew/config/servertype.inc" afterPath="$PROJECT_DIR$/project/web/dmsnew/config/servertype.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web/scripts/lwojciechowski/test.php" afterPath="$PROJECT_DIR$/project/web/scripts/lwojciechowski/test.php" />
+    </list>
+    <ignored path="vemma.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vemma" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="generate_autoships.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/web/cronjob/generate_autoships.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3951528" vertical-offset="1020" max-vertical-offset="19020">
+              <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+              <folding>
+                <marker date="1418981710000" expanded="true" signature="5596:6268" placeholder="SELECT * FRO..tm_autoship_orders..." />
+                <marker date="1418981710000" expanded="true" signature="14170:14407" placeholder="SELECT * FRO..tm_orders..." />
+                <marker date="1418981710000" expanded="true" signature="14646:14831" placeholder="UPDATE tm_au..." />
+                <marker date="1418981710000" expanded="true" signature="16501:16683" placeholder="UPDATE tm_au..." />
+                <marker date="1418981710000" expanded="true" signature="17313:17592" placeholder="UPDATE tm_or..." />
+                <marker date="1418981710000" expanded="true" signature="18186:18464" placeholder="UPDATE tm_or..." />
+                <marker date="1418981710000" expanded="true" signature="19524:19740" placeholder="SELECT COUNT..tm_orders_status..." />
+                <marker date="1418981710000" expanded="true" signature="20268:20563" placeholder="UPDATE tm_au..." />
+                <marker date="1418981710000" expanded="true" signature="21025:21356" placeholder="INSERT INTO ..." />
+                <marker date="1418981710000" expanded="true" signature="27033:27193" placeholder="UPDATE tmp_c..." />
+                <marker date="1418981710000" expanded="true" signature="27630:27750" placeholder="select * fro..tm_payment_details..." />
+                <marker date="1418981710000" expanded="true" signature="29442:29622" placeholder="UPDATE tmp_d..." />
+                <marker date="1418981710000" expanded="true" signature="32711:32931" placeholder="SELECT value..dms_statistics..." />
+                <marker date="1418981710000" expanded="true" signature="33133:33279" placeholder="INSERT INTO ..." />
+                <marker date="1418981710000" expanded="true" signature="33476:33735" placeholder="UPDATE dms_s..." />
+                <marker date="1418981710000" expanded="true" signature="37847:38252" placeholder="SELECT o.*, ..tm_orders..." />
+                <marker date="1418981710000" expanded="true" signature="42484:42540" placeholder="SELECT count..dd_mandates..." />
+                <marker date="1418981710000" expanded="true" signature="42715:42812" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project/web/scripts/rkarkut/unserializeCcDetails.php" />
+        <option value="$PROJECT_DIR$/puppets/modules/mysql/files/my.cnf" />
+        <option value="$PROJECT_DIR$/project/web/config/main_config.php" />
+        <option value="$PROJECT_DIR$/project/web/lib/core/application.inc" />
+        <option value="$PROJECT_DIR$/puppets/modules/mysql/manifests/init.pp" />
+        <option value="$PROJECT_DIR$/puppets/modules/apache/manifests/init.pp" />
+        <option value="$PROJECT_DIR$/project/web/lib/controllers/career_controller.class.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/controllers/certificates_controller.class.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/controllers/gold_controller.class.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/controllers/partea_controller.class.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/controllers/remix_controller.class.inc" />
+        <option value="$PROJECT_DIR$/project/web/scripts/lwojciechowski/test.php" />
+        <option value="$PROJECT_DIR$/project/web/lib/core/bootstrap/init_debuger.inc" />
+        <option value="$PROJECT_DIR$/project/web/cronjob/generate_autoships.php" />
+        <option value="$PROJECT_DIR$/project/web/lib/models/dddetail.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/modules/payments/ccpayment.inc" />
+        <option value="$PROJECT_DIR$/project/web/scripts/post.php" />
+        <option value="$PROJECT_DIR$/project/web/lib/helpers/payment_detail_helper.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/modules/payments/ddpayment.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/controllers/backoffice/manage_autoship_controller.class.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/modules/payments/wtddpayment.inc" />
+        <option value="$PROJECT_DIR$/project/web/lib/plugins/orders.inc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5">
+    <include_path>
+      <path value="/usr/local/Cellar/php55/5.5.18/lib/php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vemma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vemma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vemma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vemma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vemma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vemma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vemma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/web/tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.generate_autoships.php">
+    <configuration default="false" name="generate_autoships.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/project/web/cronjob/generate_autoships.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.generate_autoships.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.generate_autoships.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="CURRENT_VAGRANT" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/amqp" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/GeoIp" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/push_notification/push_apple_server" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/push_notification/push_apple_server/ApnsPHP" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/amqp" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/GeoIp" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/push_notification/push_apple_server" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/project/web/lib/plugins/push_notification/push_apple_server/ApnsPHP" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a572f2c0-ea08-4c8c-87bc-e3e4820fb788" name="Default" comment="" />
+      <changelist id="" name="payments" comment="" />
+      <created>1418891783690</created>
+      <option name="number" value="Default" />
+      <updated>1418891783690</updated>
+    </task>
+    <task id="LOCAL-00001" summary="poprawki">
+      <created>1418905703028</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1418905703028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dodanie obslugi sofort i paypal do helpera z details">
+      <created>1418910669025</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1418910669025</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dodatkowe metody platnosci">
+      <created>1418911276032</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1418911276032</updated>
+    </task>
+    <task id="LOCAL-00004" summary="zmiana sciezek w templatkach">
+      <created>1418913386031</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1418913386031</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tylko dla testow">
+      <created>1418991168029</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1418991168029</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zapisanie info w dd_details gdy platnosc metoda DD">
+      <created>1418992465030</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1418992465030</updated>
+    </task>
+    <task id="LOCAL-00007" summary="brakujace parametry">
+      <created>1418996489030</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1418996489030</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20779221" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20779221" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="poprawki" />
+    <MESSAGE value="dodanie obslugi sofort i paypal do helpera z details" />
+    <MESSAGE value="dodatkowe metody platnosci" />
+    <MESSAGE value="zmiana sciezek w templatkach" />
+    <MESSAGE value="tylko dla testow" />
+    <MESSAGE value="zapisanie info w dd_details gdy platnosc metoda DD" />
+    <MESSAGE value="brakujace parametry" />
+    <option name="LAST_COMMIT_MESSAGE" value="brakujace parametry" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/web/lib/core/translation.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5655" max-vertical-offset="16455">
+          <caret line="379" column="30" selection-start-line="379" selection-start-column="20" selection-end-line="379" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/modules/payments/ccpayment.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="7935">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <marker date="1418991141000" expanded="true" signature="-1:-1" placeholder="SELECT as_id..tmp_cc_details..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/core/bootstrap.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="2940">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/scripts/rkarkut/unserializeCcDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.71127504" vertical-offset="930" max-vertical-offset="1965">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/plugins/products.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28451002" vertical-offset="0" max-vertical-offset="12780">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/dmsnew/misc/sql/lwojciechowski_075.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43001688" vertical-offset="0" max-vertical-offset="593">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="643">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/core/application.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5815832" vertical-offset="810" max-vertical-offset="3420">
+          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/config/main_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5088853" vertical-offset="345" max-vertical-offset="13680">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/config/local_config.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1605">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puppets/modules/others/manifests/init.pp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puppets/modules/mysql/files/my.cnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3545735" vertical-offset="0" max-vertical-offset="973">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.015416238" vertical-offset="0" max-vertical-offset="973">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puppets/manifests/init.pp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puppets/modules/system/manifests/init.pp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36392406" vertical-offset="0" max-vertical-offset="948">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puppets/modules/apache/manifests/init.pp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061664954" vertical-offset="0" max-vertical-offset="973">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puppets/modules/mysql/manifests/init.pp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49331963" vertical-offset="0" max-vertical-offset="973">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/compensation_plan_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/agreement_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/agreements_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/business_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/remix_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1264489" vertical-offset="0" max-vertical-offset="949">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/partea_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15806112" vertical-offset="0" max-vertical-offset="949">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/products_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/gold_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30031613" vertical-offset="0" max-vertical-offset="949">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/certificates_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1264489" vertical-offset="0" max-vertical-offset="949">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/career_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.857745" vertical-offset="836" max-vertical-offset="1785">
+          <caret line="110" column="40" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/core/bootstrap.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="2940">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/modules/payments/payment.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0" vertical-offset="71" max-vertical-offset="840">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/templates/templates/core/global/secure/popup_purpose_choice.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09693053" vertical-offset="0" max-vertical-offset="619">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/plugins/common_methods.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="69.98385" vertical-offset="0" max-vertical-offset="49350">
+          <caret line="2831" column="71" selection-start-line="2831" selection-start-column="71" selection-end-line="2831" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/core/translation.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.015806112" vertical-offset="5655" max-vertical-offset="16485">
+          <caret line="379" column="30" selection-start-line="379" selection-start-column="20" selection-end-line="379" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/scripts/lwojciechowski/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15806112" vertical-offset="0" max-vertical-offset="949">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/core/bootstrap/init_debuger.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45837724" vertical-offset="0" max-vertical-offset="949">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/templates/templates/core/global/dev/developer_bar.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1590">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/core/site.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.15384616" vertical-offset="146" max-vertical-offset="1620">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/signup_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2065332" vertical-offset="25334" max-vertical-offset="29535">
+          <caret line="1698" column="41" selection-start-line="1698" selection-start-column="32" selection-end-line="1698" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/tests/DDDetailsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23709168" vertical-offset="0" max-vertical-offset="949">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/tests/CCDetailsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/tests/EmailHelperTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/models/dddetail.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22128557" vertical-offset="0" max-vertical-offset="949">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/scripts/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="3795" max-vertical-offset="9930">
+          <caret line="266" column="80" selection-start-line="266" selection-start-column="73" selection-end-line="266" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/helpers/payment_detail_helper.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.019608" vertical-offset="1568" max-vertical-offset="6150">
+          <caret line="125" column="42" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/modules/payments/wtddpayment.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="180" max-vertical-offset="2610">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="2" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <marker date="1418996361000" expanded="true" signature="-1:-1" placeholder="SELECT as_id..tmp_dd_details..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/config/routes_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35194942" vertical-offset="2096" max-vertical-offset="3315">
+          <caret line="159" column="75" selection-start-line="159" selection-start-column="75" selection-end-line="159" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/templates/templates/core/pages_new/promo/gold/gold.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2528978" vertical-offset="0" max-vertical-offset="4470">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/controllers/backoffice/manage_autoship_controller.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44362485" vertical-offset="10484" max-vertical-offset="20955">
+          <caret line="728" column="17" selection-start-line="728" selection-start-column="17" selection-end-line="728" selection-end-column="17" />
+          <folding>
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT item_..items..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT detai..tm_autoship_payments..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..dd_mandates..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT posta..countries..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT weigh..items..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT group..tm_autoship_items..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT item_..tm_autoship_items..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT price..country_prices..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT as_id..tmp_cc_details..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT order..tmp_cc_details..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT as_id..tmp_dd_details..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT as_id..tmp_dd_details..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT detai..tm_autoship_payments..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_payment_details..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="select count..dms_statistics..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="update dms_s..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT count..countries..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT posta..countries..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT `tota..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT max(v..sum..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT sum(i..tm_orders..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT max(v..sum..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT sum(i..tm_orders..." />
+            <marker date="1418995497000" expanded="true" signature="-1:-1" placeholder="SELECT as_st..tm_autoship_orders..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/plugins/orders.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38672286" vertical-offset="29543" max-vertical-offset="42135">
+          <caret line="1962" column="22" selection-start-line="1962" selection-start-column="22" selection-end-line="1962" selection-end-column="22" />
+          <folding>
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="update dms_g..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT syste..tm_invoices..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_invoice_items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT daily..tmp_invoice_numbers..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tmp_i..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_in..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_in..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_invoices..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_in..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_invoice_items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_in..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE count..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT statu..users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT u.* F..tm_autoship_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT u.* F..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_autoship_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT payme..tm_autoship_payments..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT i.ite..tm_invoice_items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select * fro..tm_invoices..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_or..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_au..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT user_..users_vemma_invalids..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_au..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_au..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT user_..users_vemma_invalids..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT order..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_or..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_in..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT payme..tm_autoship_payments..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_invoices..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_au..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_au..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT as_nu..tm_autoship_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT statu..tm_orders_status..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT activ..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT items..items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT count..countries..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT wareh..countries..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select type ..users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_details..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT items..items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT items..items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_in..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_in..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT invoi..tm_invoices..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT order..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT count..countries..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT wareh..countries..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT wareh..countries..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT order..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT item_..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_invoices..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tm_invoice_items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select order..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select `as_i..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT i.inv..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT id, f..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT ii.it..tm_invoice_items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT tpd.m..tm_payment_details..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE shipm..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT is_ex..shipments..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE shipm..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT max(i..shipments..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="UPDATE tm_tr..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT item_..tm_invoice_items..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select syste..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT lower..countries..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT s.id ..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="SELECT i.ord..shipments..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select u.typ..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select ii.it..tm_orders..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="update users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="select vid, ..users..." />
+            <marker date="1418996852000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/modules/payments/ddpayment.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31612223" vertical-offset="135" max-vertical-offset="5505">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="2" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="e#28#48#0#PHP" expanded="true" />
+            <marker date="1418995273000" expanded="true" signature="-1:-1" placeholder="SELECT as_id..tmp_dd_details..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/lib/modules/payments/ccpayment.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17386723" vertical-offset="3525" max-vertical-offset="7935">
+          <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+          <folding>
+            <marker date="1418991141000" expanded="true" signature="-1:-1" placeholder="SELECT as_id..tmp_cc_details..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/web/cronjob/generate_autoships.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3951528" vertical-offset="1020" max-vertical-offset="19020">
+          <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+          <folding>
+            <marker date="1418981710000" expanded="true" signature="5596:6268" placeholder="SELECT * FRO..tm_autoship_orders..." />
+            <marker date="1418981710000" expanded="true" signature="14170:14407" placeholder="SELECT * FRO..tm_orders..." />
+            <marker date="1418981710000" expanded="true" signature="14646:14831" placeholder="UPDATE tm_au..." />
+            <marker date="1418981710000" expanded="true" signature="16501:16683" placeholder="UPDATE tm_au..." />
+            <marker date="1418981710000" expanded="true" signature="17313:17592" placeholder="UPDATE tm_or..." />
+            <marker date="1418981710000" expanded="true" signature="18186:18464" placeholder="UPDATE tm_or..." />
+            <marker date="1418981710000" expanded="true" signature="19524:19740" placeholder="SELECT COUNT..tm_orders_status..." />
+            <marker date="1418981710000" expanded="true" signature="20268:20563" placeholder="UPDATE tm_au..." />
+            <marker date="1418981710000" expanded="true" signature="21025:21356" placeholder="INSERT INTO ..." />
+            <marker date="1418981710000" expanded="true" signature="27033:27193" placeholder="UPDATE tmp_c..." />
+            <marker date="1418981710000" expanded="true" signature="27630:27750" placeholder="select * fro..tm_payment_details..." />
+            <marker date="1418981710000" expanded="true" signature="29442:29622" placeholder="UPDATE tmp_d..." />
+            <marker date="1418981710000" expanded="true" signature="32711:32931" placeholder="SELECT value..dms_statistics..." />
+            <marker date="1418981710000" expanded="true" signature="33133:33279" placeholder="INSERT INTO ..." />
+            <marker date="1418981710000" expanded="true" signature="33476:33735" placeholder="UPDATE dms_s..." />
+            <marker date="1418981710000" expanded="true" signature="37847:38252" placeholder="SELECT o.*, ..tm_orders..." />
+            <marker date="1418981710000" expanded="true" signature="42484:42540" placeholder="SELECT count..dd_mandates..." />
+            <marker date="1418981710000" expanded="true" signature="42715:42812" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
