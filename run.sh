@@ -7,8 +7,8 @@ function createDatabase() {
      sh -c "echo 'CREATE DATABASE IF NOT EXISTS $1' > puppets/modules/mysql/files/create_database.sql"
 }
 
-function createHosts() {
-    echo "==> Create hosts file..."
+function createVirtualHosts() {
+    echo "==> Create virtual hosts file..."
 
     sh -c "echo '<VirtualHost *:80>
     ServerAdmin webmaster@localhost.com
@@ -21,7 +21,14 @@ function createHosts() {
 
     SetEnv MY_LARAVEL_ENV local
     
-</VirtualHost>' > puppets/modules/apache/files/hosts"
+</VirtualHost>' > puppets/modules/apache/files/virtual_hosts"
+}
+
+function createHosts() {
+    echo "==> Create hosts file..."
+
+    sh -c "echo '127.0.0.1 local $1 
+    $2 external $1' > puppets/modules/apache/files/hosts"
 }
 
 function createLocalHost() {
@@ -46,7 +53,8 @@ echo "==> Updating dependencies..."
 source config.cfg
 
 createDatabase $db_name
-createHosts $host
+createVirtualHosts $host
+createHosts $host $ip
 createLocalHost $ip $host
 getLaravelProject
 

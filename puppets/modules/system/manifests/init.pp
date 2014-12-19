@@ -1,15 +1,5 @@
   class system {
 
-    host { 'local':
-        ip => '127.0.0.1',
-        host_aliases => [ 'laravel.v.l'],
-    }
-
-    host { 'external':
-        ip => '10.50.0.14',
-        host_aliases => ['laravel.v.l'],
-    }
-
     package {
         ['vim', 'curl', 'screen','git','mc','ack','subversion', 'gzip','strace', 'augeas-tools', 'libaugeas-dev', 'libaugeas-ruby']:
         ensure  => installed
@@ -45,4 +35,16 @@
         group   => vagrant,
         mode    => 644,
       }
+    
+    file { '/tmp/hosts':
+        source  => 'puppet:///modules/apache/hosts',
+        audit  => content,
+        require => Package['mysql-server']
+    }
+
+    exec { 'create_hosts':
+        command => 'mv /tmp/hosts /etc/hosts',
+        path    => ['/bin', '/usr/bin'],
+        require => File['/tmp/create_database.sql'],
+    }
 }

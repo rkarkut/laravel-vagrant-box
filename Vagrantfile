@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
     config.vm.box = "puphpet/debian75-x64"
-    
+
     config.vm.synced_folder "project", "/var/www/project"
     
     config.vm.network 'private_network', ip: '10.50.0.14'

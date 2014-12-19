@@ -20,7 +20,7 @@ class apache {
     }
 
     file { '/etc/apache2/sites-available/hosts':
-        source => 'puppet:///modules/apache/hosts',
+        source => 'puppet:///modules/apache/virtual_hosts',
         audit  => content,
         require => Package['apache2']
     }
