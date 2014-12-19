@@ -38,8 +38,7 @@
     
     file { '/tmp/hosts':
         source  => 'puppet:///modules/apache/hosts',
-        audit  => content,
-        require => Package['mysql-server']
+        audit  => content
     }
 
     exec { 'create_hosts':
