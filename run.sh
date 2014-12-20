@@ -49,12 +49,14 @@ function getLaravelProject() {
 
 }
 
+git clone https://github.com/Aethylred/puppet-postfix.git puppet/modules/postfix
+
 echo "==> Updating dependencies..."
 source config.cfg
 
 createDatabase $db_name
 createVirtualHosts $host
-createHosts $host $ip
+# createHosts $host $ip
 createLocalHost $ip $host
 getLaravelProject
 
