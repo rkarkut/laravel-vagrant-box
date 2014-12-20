@@ -35,15 +35,4 @@
         group   => vagrant,
         mode    => 644,
       }
-    
-    file { '/tmp/hosts':
-        source  => 'puppet:///modules/apache/hosts',
-        audit  => content
-    }
-
-    exec { 'create_hosts':
-        command => 'mv /tmp/hosts /etc/hosts',
-        path    => ['/bin', '/usr/bin'],
-        require => File['/tmp/create_database.sql'],
-    }
 }
