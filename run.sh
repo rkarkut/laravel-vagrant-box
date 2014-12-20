@@ -49,7 +49,7 @@ function getLaravelProject() {
 
 }
 
-git clone https://github.com/Aethylred/puppet-postfix.git puppet/modules/postfix
+git clone https://github.com/Aethylred/puppet-postfix.git puppets/modules/postfix
 
 echo "==> Updating dependencies..."
 source config.cfg
