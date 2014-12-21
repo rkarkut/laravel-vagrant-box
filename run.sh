@@ -10,7 +10,8 @@ function createDatabase() {
 function createVirtualHosts() {
     echo "==> Create virtual hosts file..."
 
-    sh -c "echo '<VirtualHost *:80>
+    sh -c "echo 'ServerName localhost
+    <VirtualHost *:80>
     ServerAdmin webmaster@localhost.com
     ServerName $1
     DocumentRoot  \"/var/www/project/public\"
