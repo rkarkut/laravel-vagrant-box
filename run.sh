@@ -56,7 +56,7 @@ source config.cfg
 
 createDatabase $db_name
 createVirtualHosts $host
-# createHosts $host $ip
+createHosts $host $ip
 createLocalHost $ip $host
 getLaravelProject
 
