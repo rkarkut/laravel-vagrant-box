@@ -44,7 +44,7 @@ function getLaravelProject() {
 
     composer global require "laravel/installer=~1.1"
 
-    composer create-project laravel/laravel project --4.2
+    composer create-project laravel/laravel=4.2 project --prefer-dist
 
     chmod -R 777 project
 
